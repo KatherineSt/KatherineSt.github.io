@@ -1,0 +1,99 @@
+body{
+    background-color: #202124;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#region{
+    color:#999DA2;
+    margin-top: 300px;
+    display: block;
+    align-items: center;
+    padding-left: 15px;
+}
+
+#link{
+    color:#999DA2;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px;
+    white-space: nowrap;
+    align-self: center;
+}
+
+#search{
+    border:1px solid #303134;
+    display: inline-block;
+    color: #E8EAED;
+    background-color: #303134;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 11px 4px;
+    cursor:pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    line-height: 35px;
+    height: 36px;
+    min-width: 54px;
+    text-align: justify;
+    border-radius: 5px;
+}
+
+#lucky{
+    border:1px solid #303134;
+    display: inline-block;
+    color: #E8EAED;
+    background-color: #303134;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 11px 4px;
+    cursor:pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    line-height: 35px;
+    height: 36px;
+    min-width: 54px;
+    text-align: justify;
+    border-radius: 5px;
+}
+
+#links{
+    display:block;
+    float: right;
+}
+
+#busqueda{
+    height: 44px;
+    background: #202124;
+    border: 1px solid #5f6368;
+    border-radius: 24px;
+    width: 584px;       
+    display: block;
+    margin: 35px auto;
+}
+
+.logo{
+    display: flex;
+    padding-top: 300px;
+    padding-left: 150px;
+    margin: 0px auto;
+    
+}
+
+#botones{
+    display: block;
+    width: 300px;
+    margin: 0px auto;
+}
+
+footer{
+    margin: auto auto;
+    text-decoration: none;
+    display: block;
+}
+
+#izquierda{
+    float: left;
+}
+#derecha{
+    float: right;
+}
